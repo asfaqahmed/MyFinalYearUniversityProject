@@ -1,7 +1,11 @@
 # MyFinalProject
 This is my final year project
 
+![Home Page](https://user-images.githubusercontent.com/32562527/137185532-ac0a40ba-8dff-4511-bf3e-2fbd6b6192a0.png)
+
+
 # Running this project
+
 To get this project up and running you should start by having Python installed on your computer. It's advised you create a virtual environment to store your projects dependencies separately. You can install virtualenv with
 
 pip install virtualenv
